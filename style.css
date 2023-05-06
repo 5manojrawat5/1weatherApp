@@ -109,3 +109,17 @@ body{
     margin-top:20px;
     display: none;
 }
+
+/* media quary */
+
+@media only screen and (max-width:600px){
+
+    .card{
+        padding:40px 10px;
+    }
+
+    .wind{
+        font-size:20px;
+    }
+
+}
